@@ -1,0 +1,33 @@
+body{
+    background: rgba(0, 0, 0, 0.7) url('food.jpg') center center fixed;
+    background-size: cover;
+    background-blend-mode: darken;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.reservation h1{
+    color: orangered;
+    margin-left:10px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+.ff{
+    color: rgb(232, 230, 226);
+    margin-left: 10px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+.but{
+    background-color: rgb(255, 69,0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+  }
+  

@@ -1,0 +1,46 @@
+body{
+    background: rgba(0, 0, 0, 0.7) url('food.jpg') center center fixed;
+    background-size: cover;
+    background-blend-mode: darken;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.a {
+  text-align: center;
+  color: rgb(255, 69,0);
+  font-size: 30px;
+}
+.b {
+  text-align: center;
+  color: rgb(223, 219, 218);
+  font-size: 19px;
+}
+.c {
+  text-align: center;
+  color: rgb(255, 69,0);
+  font-size: 20px;
+}
+
+.bu{
+    background-color: rgb(255, 69,0);
+    color: white;
+    text-align: center;
+    border: none;
+    height: 40px;
+    width: 115px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+  }
+  .bot{
+    background-color: rgb(255, 69,0);
+    color: white;
+    border: none;
+    height: 40px;
+    width: 115px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+  }
+  
